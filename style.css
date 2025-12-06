@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+.foto {
+    border-left: 12px dotted black;
+    margin: 30px;
+}
+h1{
+    text-align: center;
+    
+}
+main p{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+}
+footer{
+    background-color: black;
+    padding: 5px;
+
+}
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+a{
+    color: black;
+   margin: 30px;
+   margin-left: 100px;
+   border-bottom: 4px solid black;
+   text-decoration: none;
+
+}
+
